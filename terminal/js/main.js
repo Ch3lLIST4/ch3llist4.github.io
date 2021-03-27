@@ -84,7 +84,7 @@ var files = (function () {
     Singleton.defaultOptions = {
         "about.txt": "\nA college student who passionates about programming and exploiting vulnerabilities in general.\nAs an ambitious and diligent individual, I'm often recognized and evaluated by organizations for my commitment and abilities.\n",
         "education.txt": "\nFPT University (2017-2021) - Information Assurance\n",
-        "languages.txt": "\n████████████████████████████████████____ 90% - Python\n████████████████████████████████________ 80% - Java\n████████████████████████████____________ 70% - JavaScript\n████████████████________________________ 40% - C/C++\n████████████____________________________ 30% - Assembly\n████████████████████____________________ 50% - PHP\n████████████████████████████____________ 70% - SQL\n████████████████████████████████________ 80% - Bash\n████████████████████████████____________ 70% - PowerShell\n",
+        "languages.txt": "\n####################################____ 90% - Python\n################################________ 80% - Java\n############################____________ 70% - JavaScript\n################________________________ 40% - C/C++\n############____________________________ 30% - Assembly\n####################____________________ 50% - PHP\n############################____________ 70% - SQL\n################################________ 80% - Bash\n############################____________ 70% - PowerShell\n",
         "technologies.txt": "\nNode.js, Flask, Django, Struts, Spring\n",
         "tools.txt": "\nGit, Netbeans, Nano, Notepad++, VSCode, MySQL, MSSQL, Docker, VMWare\n",
         "pentest_tools.txt": "\nNmap, FinalRecon, Nikto, BurpSuite, ZAP, SQLMap\n",
